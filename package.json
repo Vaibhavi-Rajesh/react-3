@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Vaibhavi-Rajesh.github.io/react-portfolio-1",
+  "homepage": "http://Vaibhavi-Rajesh.github.io/react-3",
   "name": "react-portfolio-4",
   "version": "0.1.0",
   "private": true,
@@ -58,6 +58,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0vgit push -u origin main"
   }
 }
